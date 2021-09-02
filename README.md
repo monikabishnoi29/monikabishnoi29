@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @monikabishnoi29
 - 👀 I’m interested in fulstack webdevelopment
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me?? you can chack my linkedin profile:  https://www.linkedin.com/in/monika-bishnoi-444a50200/
 
 <!---
