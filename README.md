@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monika Bishnoi
-- 📄 I’m currently pursuing electrical engineering at NIT Hamirpur
+- 📄 I’m currently pursuing electrical engineering from NIT Hamirpur
 🌱 I’m currently learning DSA and have keen interest in open source too.
 📘 I also like solving problems and thus have intrest in Competitive Programming too.
 ⚡ I love solving new problems and learning new things.  
