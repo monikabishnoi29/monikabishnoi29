@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Monika Bishnoi
-- 📄 I’m currently pursuing electrical engineering from NIT Hamirpur
-🌱 Learning DSA and have keen interest in open source too.
-📘 I also like solving problems and thus have intrest in Competitive Programming too.
-⚡ I love solving new problems and learning new things.  
-- 📫 How to reach me?? you can chack my linkedin profile:  https://www.linkedin.com/in/monika-bishnoi-444a50200/
-<!---
-monikabishnoi29/monikabishnoi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I'm Monika Bishnoi!
+
+🎓 I'm currently a final-year Electrical Engineering student at NIT Hamirpur, dedicated to expanding my horizons and embracing the world of innovation.
+
+🌱 With a passion for growth, I'm diving deep into the realm of Data Structures and Algorithms, while also nurturing a strong fascination for open-source projects.
+
+💡 My enthusiasm for tackling challenges naturally led me to the world of Competitive Programming. I find joy in solving intricate problems and continuously honing my analytical skills.
+
+⚡ I thrive on the excitement of unraveling novel obstacles and acquiring fresh knowledge. Every problem solved is a step towards my personal and professional development.
+
+🛠️ To witness my journey of creativity and application, explore my project repository in the designated section.
+
+📫 Want to connect? Feel free to reach out to me via my LinkedIn profile: [Monika Bishnoi](https://www.linkedin.com/in/monika-bishnoi-444a50200/). Let's explore opportunities and learn from each other's perspectives!
